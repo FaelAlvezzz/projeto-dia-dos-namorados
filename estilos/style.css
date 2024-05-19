@@ -1,0 +1,54 @@
+@charset "UTF-8";
+
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-image: url(../imagem/pexels-nexio-20180475.jpg);
+    background: contain no-repeat;
+}
+
+.cabecalho {
+    padding: 10px;
+    text-align: center;
+    background-color: rgb(233, 133, 133);
+}
+
+.titulo {
+    text-align: center;
+    font-size: 3em;
+    padding: 40px;
+    color: white;
+}
+
+main {
+    width: 50vw;
+    background-color: white;
+    margin: auto;
+    margin-top: 10px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.artigo {
+    background-color: white;
+    width: 300px;
+    height: auto;
+    margin: auto;
+    padding: 10px;
+    align-items: center;
+}
+
+.subtitulo {
+    padding: 10px;
+}
+
+.text {
+    text-align: justify;
+}
+
+.botao {
+}
